@@ -1,16 +1,16 @@
-# Url Scraper API
+# URL Scraper API
 
 [![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
-Oxylabs’ [Url Scraper](https://oxylabs.io/products/scraper-api/web/url-scraper?utm_source=github&utm_medium=repositories&utm_campaign=product) is a data gathering solution allowing you to extract real-time information from an Url website effortlessly. This brief guide explains how an Url Scraper works and provides code examples to understand better how you can use it hassle-free.
+Oxylabs’ [URL Scraper](https://oxylabs.io/products/scraper-api/web/url-scraper?utm_source=github&utm_medium=repositories&utm_campaign=product) is a data gathering solution allowing you to extract real-time information from an URL website effortlessly. This brief guide explains how a URL Scraper works and provides code examples to understand better how you can use it hassle-free.
 
 ### How it works
 
-You can get Url results by providing your own URLs to our service. We can return the HTML for any Url page you like.
+You can get URL results by providing your own URLs to our service. We can return the HTML for any URL page you like.
 
 #### Python code example
 
-The example below illustrates how you can get HTML of Url page.
+The example below illustrates how you can get HTML of [oxylabs.io/blog](https://oxylabs.io/blog) page.
 
 ```python
 import requests
@@ -52,4 +52,4 @@ Find code examples for other programming languages [**here**](https://github.com
   ]
 }
 ```
-With our Url Scraper, you can seamlessly extract public data from any Url web page. Gather the specific data points you need, such as stock indices, trade volumes, or economic reports, to conduct your financial analysis and stay up-to-date on market trends. If you run into any issues or need assistance, don't hesitate to reach out to our support team through live chat or email us at support@finscraper.io.
+With our URL Scraper, you can seamlessly extract public data from any URL web page. Gather the specific data points you need, such as stock indices, trade volumes, or economic reports, to conduct your financial analysis and stay up-to-date on market trends. If you run into any issues or need assistance, don't hesitate to reach out to our support team through live chat or email us at support@finscraper.io.
